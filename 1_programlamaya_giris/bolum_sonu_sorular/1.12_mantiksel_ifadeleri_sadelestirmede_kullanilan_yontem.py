@@ -1,9 +1,9 @@
-soru:mantiksal ifadeleri sadelestirmede kullanilan yöntemleri arastiriniz ve sadelestirme örnekleri cözünüz. 
+soru:mantiksal ifadeleri sadelestirmede kullanilan yöntemleri arastiriniz ve sadelestirme örnekleri cözünüz.
 
 Mantiksal ifadeleri sadelestirmede kullanilan yöntemlerden bir tanesi "Boole cebri " yöntemidir. 
 Boole cebri 0 , 1  kümesi üzerinde belirli islemler kullanilarak kurulmus bilgisayar sisteminin temelini olusturan bir önermeler mantigidir.
 
-Boole cebrinin bazi özellikleri 
+Boole cebrinin bazi ozellikleri 
 
 A+0=A                  A.0=0
 A+A=1                  A.A'=0
